@@ -11,6 +11,9 @@
 ### Shortly about me:
 I know how to interact in a team, able to learn and absorb information quickly.
 
+###Education:
+MIIGAiK(Moscow State University of Geodesy and Cartography)
+
 ### Languages
-Russian: native
-English: B1
+- Russian: native
+- English: B1
