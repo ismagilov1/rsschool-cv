@@ -12,4 +12,21 @@
 
 ## About me
 
-Graduated from the University of MIIGAIK (Moscow State University of Geodesy and Cartography). I worked as a surveyor in the city of Mytishchi and built an overpass. I realized that I don't want to connect my life with work in construction. I have the desire and opportunity to learn frontend developing.
+Graduated from the University of MIIGAIK (Moscow State University of Geodesy and Cartography). I worked as a engineer-surveyor in the city of Mytishchi and built an overpass. I realized that I don't want to connect my life with work in construction. I have the desire and opportunity to learn frontend developing.
+
+---
+
+## Skills
+
+- HTML
+- CSS ()
+- AutoCAD
+- Figma
+
+## Code Examples
+
+```
+function multiply(a, b){
+ return a * b
+}
+```
