@@ -4,9 +4,9 @@
 
 ## Contacts:
 
-- mail: ruulllo3@gmail.com
-- github: ismagilov1
-- discord: isma de los muertos#5405
+- **mail**: ruulllo3@gmail.com
+- **github**: ismagilov1
+- **discord**: isma de los muertos#5405
 
 ---
 
@@ -19,9 +19,11 @@ Graduated from the University of MIIGAIK (Moscow State University of Geodesy and
 ## Skills
 
 - HTML
-- CSS ()
+- CSS
 - AutoCAD
 - Figma
+
+---
 
 ## Code Examples
 
@@ -30,3 +32,17 @@ function multiply(a, b){
  return a * b
 }
 ```
+
+---
+
+## Education
+
+- MIIGAiK Moscow State University of Geodesy and Cartography (engineer surveyor)
+- ITC course "web development for beginners" (https://stepik.org/cert/1884480)
+
+---
+
+## Languages
+
+1. **_Russian_** - native speaker
+2. **_English_** - B2
